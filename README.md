@@ -24,5 +24,3 @@ Sources are available in the `docs/` directory.
 License
 -------
 Docker is licensed under the Apache License, Version 2.0. See LICENSE for full license text
-
-#add by dw
